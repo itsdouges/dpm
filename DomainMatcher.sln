@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainMatcher", "DomainMatcher\DomainMatcher.csproj", "{299B1CBD-F5AA-4839-AD29-A628B2074E9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainMatcher.UnitTests", "DomainMatcher.UnitTests\DomainMatcher.UnitTests.csproj", "{4457036E-7DAC-483E-B6C5-42B92173186A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4DA9DE47-F9C5-4E61-97FF-1A9CD73C8C08}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{299B1CBD-F5AA-4839-AD29-A628B2074E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299B1CBD-F5AA-4839-AD29-A628B2074E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299B1CBD-F5AA-4839-AD29-A628B2074E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299B1CBD-F5AA-4839-AD29-A628B2074E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4457036E-7DAC-483E-B6C5-42B92173186A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4457036E-7DAC-483E-B6C5-42B92173186A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4457036E-7DAC-483E-B6C5-42B92173186A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4457036E-7DAC-483E-B6C5-42B92173186A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
